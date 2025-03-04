@@ -1,0 +1,562 @@
+{
+    "lightcones": [
+        {
+            "code": "ASVDP",
+            "name": "A Secret Vow",
+            "path": "destruction",
+            "rarity": "P"
+        },
+        {
+            "code": "ADHB",
+            "name": "Adversarial",
+            "path": "hunt",
+            "rarity": "B"
+        },
+        {
+            "code": "APSNG",
+            "name": "Along the Passing Shore",
+            "path": "nihility",
+            "rarity": "G"
+        },
+        {
+            "code": "APB",
+            "name": "Amber",
+            "path": "preservation",
+            "rarity": "B"
+        },
+        {
+            "code": "AIBGEG",
+            "name": "An Instant Before a Gaze",
+            "path": "erudition",
+            "rarity": "G"
+        },
+        {
+            "code": "ARHB",
+            "name": "Arrows",
+            "path": "hunt",
+            "rarity": "B"
+        },
+        {
+            "code": "BPTHG",
+            "name": "Baptism of Pure Thought",
+            "path": "hunt",
+            "rarity": "G"
+        },
+        {
+            "code": "BDEG",
+            "name": "Before the Dawn",
+            "path": "erudition",
+            "rarity": "G"
+        },
+        {
+            "code": "BTMSNP",
+            "name": "Before the Tutorial Mission Starts",
+            "path": "nihility",
+            "rarity": "P"
+        },
+        {
+            "code": "BTSDG",
+            "name": "Brighter Than the Sun",
+            "path": "destruction",
+            "rarity": "G"
+        },
+        {
+            "code": "BBIOHG",
+            "name": "But the Battle Isn't Over",
+            "path": "harmony",
+            "rarity": "G"
+        },
+        {
+            "code": "CMWCHP",
+            "name": "Carve the Moon, Weave the Clouds",
+            "path": "harmony",
+            "rarity": "P"
+        },
+        {
+            "code": "CHB",
+            "name": "Chorus",
+            "path": "harmony",
+            "rarity": "B"
+        },
+        {
+            "code": "CSDB",
+            "name": "Collapsing Sky",
+            "path": "destruction",
+            "rarity": "B"
+        },
+        {
+            "code": "CAB",
+            "name": "Cornucopia",
+            "path": "abundance",
+            "rarity": "B"
+        },
+        {
+            "code": "CSSHG",
+            "name": "Cruising in the Stellar Sea",
+            "path": "hunt",
+            "rarity": "G"
+        },
+        {
+            "code": "DDDHP",
+            "name": "Dance! Dance! Dance!",
+            "path": "harmony",
+            "rarity": "P"
+        },
+        {
+            "code": "DAHB",
+            "name": "Darting Arrow",
+            "path": "hunt",
+            "rarity": "B"
+        },
+        {
+            "code": "DBEB",
+            "name": "Data Bank",
+            "path": "erudition",
+            "rarity": "B"
+        },
+        {
+            "code": "DOMNLPP",
+            "name": "Day One of My New Life",
+            "path": "preservation",
+            "rarity": "P"
+        },
+        {
+            "code": "DPB",
+            "name": "Defense",
+            "path": "preservation",
+            "rarity": "B"
+        },
+        {
+            "code": "DTFPP",
+            "name": "Destiny's Threads Forewoven",
+            "path": "preservation",
+            "rarity": "P"
+        },
+        {
+            "code": "DAHP",
+            "name": "Dreamville Adventure",
+            "path": "harmony",
+            "rarity": "P"
+        },
+        {
+            "code": "EEHG",
+            "name": "Earthly Escapade",
+            "path": "harmony",
+            "rarity": "G"
+        },
+        {
+            "code": "ECAG",
+            "name": "Echoes of the Coffin",
+            "path": "abundance",
+            "rarity": "G"
+        },
+        {
+            "code": "EPNP",
+            "name": "Eyes of the Prey",
+            "path": "nihility",
+            "rarity": "P"
+        },
+        {
+            "code": "FNP",
+            "name": "Fermata",
+            "path": "nihility",
+            "rarity": "P"
+        },
+        {
+            "code": "FVHP",
+            "name": "Final Victor",
+            "path": "hunt",
+            "rarity": "P"
+        },
+        {
+            "code": "FFAB",
+            "name": "Fine Fruit",
+            "path": "abundance",
+            "rarity": "B"
+        },
+        {
+            "code": "FADP",
+            "name": "Flames Afar",
+            "path": "destruction",
+            "rarity": "P"
+        },
+        {
+            "code": "GREP",
+            "name": "Geniuses' Repose",
+            "path": "erudition",
+            "rarity": "P"
+        },
+        {
+            "code": "GNSWNP",
+            "name": "Good Night and Sleep Well",
+            "path": "nihility",
+            "rarity": "P"
+        },
+        {
+            "code": "HOHAP",
+            "name": "Hey, Over Here",
+            "path": "abundance",
+            "rarity": "P"
+        },
+        {
+            "code": "HSNB",
+            "name": "Hidden Shadow",
+            "path": "nihility",
+            "rarity": "B"
+        },
+        {
+            "code": "ISBMOSDG",
+            "name": "I Shall Be My Own Sword",
+            "path": "destruction",
+            "rarity": "G"
+        },
+        {
+            "code": "INWNG",
+            "name": "In the Name of the World",
+            "path": "nihility",
+            "rarity": "G"
+        },
+        {
+            "code": "INHG",
+            "name": "In the Night",
+            "path": "hunt",
+            "rarity": "G"
+        },
+        {
+            "code": "IRNG",
+            "name": "Incessant Rain",
+            "path": "nihility",
+            "rarity": "G"
+        },
+        {
+            "code": "IPDP",
+            "name": "Indelible Promise",
+            "path": "destruction",
+            "rarity": "P"
+        },
+        {
+            "code": "ISNP",
+            "name": "It's Showtime",
+            "path": "nihility",
+            "rarity": "P"
+        },
+        {
+            "code": "LCPP",
+            "name": "Landau's Choice",
+            "path": "preservation",
+            "rarity": "P"
+        },
+        {
+            "code": "LNB",
+            "name": "Loop",
+            "path": "nihility",
+            "rarity": "B"
+        },
+        {
+            "code": "MWCEP",
+            "name": "Make the World Clamor",
+            "path": "erudition",
+            "rarity": "P"
+        },
+        {
+            "code": "MHB",
+            "name": "Meditation",
+            "path": "harmony",
+            "rarity": "B"
+        },
+        {
+            "code": "MPHP",
+            "name": "Memories of the Past",
+            "path": "harmony",
+            "rarity": "P"
+        },
+        {
+            "code": "MCHB",
+            "name": "Meshing Cogs",
+            "path": "harmony",
+            "rarity": "B"
+        },
+        {
+            "code": "MVPG",
+            "name": "Moment of Victory",
+            "path": "preservation",
+            "rarity": "G"
+        },
+        {
+            "code": "MDDB",
+            "name": "Mutual Demise",
+            "path": "destruction",
+            "rarity": "B"
+        },
+        {
+            "code": "NFAG",
+            "name": "Night of Fright",
+            "path": "abundance",
+            "rarity": "G"
+        },
+        {
+            "code": "NMWEG",
+            "name": "Night on the Milky Way",
+            "path": "erudition",
+            "rarity": "G"
+        },
+        {
+            "code": "NRDP",
+            "name": "Nowhere to Run",
+            "path": "destruction",
+            "rarity": "P"
+        },
+        {
+            "code": "OFADG",
+            "name": "On the Fall of an Aeon",
+            "path": "destruction",
+            "rarity": "G"
+        },
+        {
+            "code": "OSRHP",
+            "name": "Only Silence Remains",
+            "path": "hunt",
+            "rarity": "P"
+        },
+        {
+            "code": "PEB",
+            "name": "Passkey",
+            "path": "erudition",
+            "rarity": "B"
+        },
+        {
+            "code": "PFHP",
+            "name": "Past and Future",
+            "path": "harmony",
+            "rarity": "P"
+        },
+        {
+            "code": "PSMHG",
+            "name": "Past Self in Mirror",
+            "path": "harmony",
+            "rarity": "G"
+        },
+        {
+            "code": "PAYNNG",
+            "name": "Patience is All You Need",
+            "path": "nihility",
+            "rarity": "G"
+        },
+        {
+            "code": "PTAP",
+            "name": "Perfect Timing",
+            "path": "abundance",
+            "rarity": "P"
+        },
+        {
+            "code": "PPB",
+            "name": "Pioneering",
+            "path": "preservation",
+            "rarity": "B"
+        },
+        {
+            "code": "PRHP",
+            "name": "Planetary Rendezvous",
+            "path": "harmony",
+            "rarity": "P"
+        },
+        {
+            "code": "POCAP",
+            "name": "Post-Op Conversation",
+            "path": "abundance",
+            "rarity": "P"
+        },
+        {
+            "code": "QPQAP",
+            "name": "Quid Pro Quo",
+            "path": "abundance",
+            "rarity": "P"
+        },
+        {
+            "code": "RRNG",
+            "name": "Reforged Rememberance",
+            "path": "nihility",
+            "rarity": "G"
+        },
+        {
+            "code": "RSPSNP",
+            "name": "Resolution Shines As Pearls of Sweat",
+            "path": "nihility",
+            "rarity": "P"
+        },
+        {
+            "code": "RDHP",
+            "name": "Return to Darkness",
+            "path": "hunt",
+            "rarity": "P"
+        },
+        {
+            "code": "RFSHP",
+            "name": "River Flows in Spring",
+            "path": "hunt",
+            "rarity": "P"
+        },
+        {
+            "code": "SEB",
+            "name": "Sagacity",
+            "path": "erudition",
+            "rarity": "B"
+        },
+        {
+            "code": "SFAP",
+            "name": "Shared Feeling",
+            "path": "abundance",
+            "rarity": "P"
+        },
+        {
+            "code": "SHDB",
+            "name": "Shattered Home",
+            "path": "destruction",
+            "rarity": "B"
+        },
+        {
+            "code": "SASHEPG",
+            "name": "She Already Shut Her Eyes",
+            "path": "preservation",
+            "rarity": "G"
+        },
+        {
+            "code": "SLDHG",
+            "name": "Sleep Like the Dead",
+            "path": "hunt",
+            "rarity": "G"
+        },
+        {
+            "code": "SHNG",
+            "name": "Solitary Healing",
+            "path": "nihility",
+            "rarity": "G"
+        },
+        {
+            "code": "SIDG",
+            "name": "Something Irreplacable",
+            "path": "destruction",
+            "rarity": "G"
+        },
+        {
+            "code": "SMHP",
+            "name": "Subscribe for More!",
+            "path": "hunt",
+            "rarity": "P"
+        },
+        {
+            "code": "SHP",
+            "name": "Swordplay",
+            "path": "hunt",
+            "rarity": "P"
+        },
+        {
+            "code": "TMPG",
+            "name": "Texture of Memories",
+            "path": "preservation",
+            "rarity": "G"
+        },
+        {
+            "code": "BSEP",
+            "name": "The Birth of Self",
+            "path": "erudition",
+            "rarity": "P"
+        },
+        {
+            "code": "DCFEP",
+            "name": "The Day the Cosmos Fell",
+            "path": "erudition",
+            "rarity": "P"
+        },
+        {
+            "code": "MWYDP",
+            "name": "The Moles Welcome You",
+            "path": "destruction",
+            "rarity": "P"
+        },
+        {
+            "code": "SBEP",
+            "name": "The Seriousness of Breakfast",
+            "path": "erudition",
+            "rarity": "P"
+        },
+        {
+            "code": "USDG",
+            "name": "The Unreachable Side",
+            "path": "destruction",
+            "rarity": "G"
+        },
+        {
+            "code": "TMPP",
+            "name": "This is Me!",
+            "path": "preservation",
+            "rarity": "P"
+        },
+        {
+            "code": "TWFNOAG",
+            "name": "Time Waits For No One",
+            "path": "abundance",
+            "rarity": "G"
+        },
+        {
+            "code": "TAPDEP",
+            "name": "Today is Another Peaceful Day",
+            "path": "erudition",
+            "rarity": "P"
+        },
+        {
+            "code": "TUMPP",
+            "name": "Trend of the Universal Market",
+            "path": "preservation",
+            "rarity": "P"
+        },
+        {
+            "code": "UBSDP",
+            "name": "Under the Blue Sky",
+            "path": "destruction",
+            "rarity": "P"
+        },
+        {
+            "code": "VNB",
+            "name": "Void",
+            "path": "nihility",
+            "rarity": "B"
+        },
+        {
+            "code": "WSCNAP",
+            "name": "Warmth Shortens Cold Nights",
+            "path": "abundance",
+            "rarity": "P"
+        },
+        {
+            "code": "WAWPP",
+            "name": "We Are Wildfire",
+            "path": "preservation",
+            "rarity": "P"
+        },
+        {
+            "code": "WWMANP",
+            "name": "We Will Meet Again",
+            "path": "nihility",
+            "rarity": "P"
+        },
+        {
+            "code": "WRAP",
+            "name": "What is Real",
+            "path": "abundance",
+            "rarity": "P"
+        },
+        {
+            "code": "WWTDP",
+            "name": "Woof! Walk Time!",
+            "path": "destruction",
+            "rarity": "P"
+        },
+        {
+            "code": "WBHG",
+            "name": "Worrisome, Blissful",
+            "path": "hunt",
+            "rarity": "G"
+        }
+    ]
+}

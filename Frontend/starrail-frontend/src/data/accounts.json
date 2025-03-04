@@ -1,0 +1,46 @@
+{
+    "accounts": [
+        {
+            "code": "LWE",
+            "name": "Lucie",
+            "characters": [],
+            "lightCones": []
+        },
+        {
+            "code": "",
+            "name": "",
+            "characters": ["TFP", "TPD"],
+            "lightCones": []
+        },
+        {
+            "code": "",
+            "name": "",
+            "characters": ["TFP", "TPD"],
+            "lightCones": []
+        },
+        {
+            "code": "",
+            "name": "",
+            "characters": ["TFP", "TPD"],
+            "lightCones": []
+        },
+        {
+            "code": "",
+            "name": "",
+            "characters": ["TFP", "TPD"],
+            "lightCones": []
+        },
+        {
+            "code": "",
+            "name": "",
+            "characters": ["TFP", "TPD"],
+            "lightCones": []
+        },
+        {
+            "code": "",
+            "name": "",
+            "characters": ["TFP", "TPD"],
+            "lightCones": []
+        }
+    ]
+}

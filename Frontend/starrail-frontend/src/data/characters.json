@@ -1,0 +1,676 @@
+{
+    "characters": [
+        {
+            "code": "ALN",
+            "name": "Acheron",
+            "combatType": "lightning",
+            "path": "nihility",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "APE",
+            "name": "Argenti",
+            "combatType": "physical",
+            "path": "erudition",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "ALD",
+            "name": "Arlan",
+            "combatType": "lightning",
+            "path": "destruction",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "AFH",
+            "name": "Asta",
+            "combatType": "fire",
+            "path": "harmony",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "AIP",
+            "name": "Aventurine",
+            "combatType": "imaginary",
+            "path": "preservation",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "BLA",
+            "name": "Bailu",
+            "combatType": "lightning",
+            "path": "abundance",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "BSWN",
+            "name": "Black Swan",
+            "combatType": "wind",
+            "path": "nihility",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "BWD",
+            "name": "Blade",
+            "combatType": "wind",
+            "path": "destruction",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "BWH",
+            "name": "Bronya",
+            "combatType": "wind",
+            "path": "harmony",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "CPD",
+            "name": "Clara",
+            "combatType": "physical",
+            "path": "destruction",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "DHWH",
+            "name": "Dan Heng",
+            "combatType": "wind",
+            "path": "hunt",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "DRIH",
+            "name": "Dr Ratio",
+            "combatType": "imaginary",
+            "path": "hunt",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "FXQP",
+            "name": "Fu Xuan",
+            "combatType": "quantum",
+            "path": "preservation",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "GFA",
+            "name": "Gallagher",
+            "combatType": "fire",
+            "path": "abundance",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "GIP",
+            "name": "Gepard",
+            "combatType": "ice",
+            "path": "preservation",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "GFN",
+            "name": "Guinafen",
+            "combatType": "fire",
+            "path": "nihility",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "HPH",
+            "name": "Hanya",
+            "combatType": "physical",
+            "path": "harmony",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "HIE",
+            "name": "Herta",
+            "combatType": "ice",
+            "path": "erudition",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "HFE",
+            "name": "Himeko",
+            "combatType": "fire",
+            "path": "erudition",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "HFD",
+            "name": "Hook",
+            "combatType": "fire",
+            "path": "destruction",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "HWA",
+            "name": "Huohuo",
+            "combatType": "wind",
+            "path": "abundance",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "ILID",
+            "name": "Imbibitor Lunae",
+            "combatType": "imaginary",
+            "path": "destruction",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "JYLE",
+            "name": "Jing Yuan",
+            "combatType": "lightning",
+            "path": "erudition",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "JID",
+            "name": "Jingliu",
+            "combatType": "ice",
+            "path": "destruction",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "KLN",
+            "name": "Kafka",
+            "combatType": "lightning",
+            "path": "nihility",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "LPN",
+            "name": "Luka",
+            "combatType": "physical",
+            "path": "nihility",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "LIA",
+            "name": "Luocha",
+            "combatType": "imaginary",
+            "path": "abundance",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "LQA",
+            "name": "Lynx",
+            "combatType": "quantum",
+            "path": "abundance",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "MIP",
+            "name": "March",
+            "combatType": "ice",
+            "path": "preservation",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "MID",
+            "name": "Misha",
+            "combatType": "ice",
+            "path": "destruction",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "NPA",
+            "name": "Natasha",
+            "combatType": "physical",
+            "path": "abundance",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "PIN",
+            "name": "Pela",
+            "combatType": "ice",
+            "path": "nihility",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "QQE",
+            "name": "Qingque",
+            "combatType": "quantum",
+            "path": "erudition",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "RMIH",
+            "name": "Ruan Mei",
+            "combatType": "ice",
+            "path": "harmony",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "SWN",
+            "name": "Sampo",
+            "combatType": "wind",
+            "path": "nihility",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "SEQH",
+            "name": "Seele",
+            "combatType": "quantum",
+            "path": "hunt",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "SLE",
+            "name": "Serval",
+            "combatType": "lightning",
+            "path": "erudition",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "SWQN",
+            "name": "Silver Wolf",
+            "combatType": "quantum",
+            "path": "nihility",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "SPQH",
+            "name": "Sparkle",
+            "combatType": "quantum",
+            "path": "harmony",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "SPH",
+            "name": "Sushang",
+            "combatType": "physical",
+            "path": "hunt",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "TLH",
+            "name": "Tingyun",
+            "combatType": "lightning",
+            "path": "harmony",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "TFH",
+            "name": "Topaz",
+            "combatType": "fire",
+            "path": "hunt",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "TFP",
+            "name": "Trailblazer",
+            "combatType": "fire",
+            "path": "preservation",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "TPD",
+            "name": "Trailblazer",
+            "combatType": "physical",
+            "path": "destruction",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "WIN",
+            "name": "Welt",
+            "combatType": "imaginary",
+            "path": "nihility",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "XQD",
+            "name": "Xueyi",
+            "combatType": "quantum",
+            "path": "destruction",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "YAIH",
+            "name": "Yanqing",
+            "combatType": "ice",
+            "path": "hunt",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        {
+            "code": "YUIH",
+            "name": "Yukong",
+            "combatType": "imaginary",
+            "path": "harmony",
+            "lightcones": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        }
+    ]
+}
